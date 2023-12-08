@@ -1,0 +1,21 @@
+- distincts
+
+Report the total number of payments received before October 28, 2004.
+
+Report the number of customer who have made payments before October 28, 2004.
+
+Retrieve the list of customer numbers for customer who have made a payment before October 28, 2004.
+
+- chaining queries
+Retrieve the details all customers who have made a payment before October 28, 2004.
+
+Retrieve details of all the customers in the United States who have made payments between April 1st 2003 and March 31st 2004.
+
+- group by and alias
+
+Find the total number of payments made each customer before October 28, 200.
+
+Find the total amount paid by each customer payment before October 28, 2004.
+
+Determine the total number of units sold for each product
+
